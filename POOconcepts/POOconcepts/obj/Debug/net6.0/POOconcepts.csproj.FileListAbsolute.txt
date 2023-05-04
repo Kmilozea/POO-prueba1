@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\bin\Debug\net6.0\POOconcepts.exe
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\bin\Debug\net6.0\POOconcepts.deps.json
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\bin\Debug\net6.0\POOconcepts.runtimeconfig.json
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\bin\Debug\net6.0\POOconcepts.dll
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\bin\Debug\net6.0\POOconcepts.pdb
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.AssemblyInfo.cs
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.dll
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\refint\POOconcepts.dll
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.pdb
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\POOconcepts.genruntimeconfig.cache
+C:\Users\USER\Desktop\POOconcepts\POOconcepts\obj\Debug\net6.0\ref\POOconcepts.dll
